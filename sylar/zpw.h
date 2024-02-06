@@ -6,5 +6,6 @@
 #include "singleton.h"
 #include "thread.h"
 #include "util.h"
+#include "macro.h"
 
 #endif
